@@ -4,5 +4,6 @@ langserve
 langchain
 langchain-core
 langchain-google-genai
+pydantic
 requests
 sse-starlette
